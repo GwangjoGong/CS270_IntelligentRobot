@@ -1,0 +1,13 @@
+*.zip
+data/
+*/logs/
+*/__pycache__
+*/.ipynb_checkpoints
+*/*.docx
+*.pt
+pygame/
+dataset/
+models/
+.ionide/
+test/
+*.pdf
